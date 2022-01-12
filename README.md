@@ -1,2 +1,2 @@
 # FirstWebDev
-This advertisement page for one of my favourite video games, Red Dead Redemption 2 is my first experience with website development. It was built using basic HTML (including Bootstrap) and CSS. 
+I built this elementary advertisement page for one of my favourite video games, Red Dead Redemption 2 to teach the concepts behind web development to beginners. It involves HTML and the Bootstrap Framework, and CSS.
